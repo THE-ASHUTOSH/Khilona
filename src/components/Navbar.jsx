@@ -20,6 +20,7 @@ const Navbar = () => {
   return (
     <nav className="bg-gray-800 p-4">
       <div className="container mx-auto flex justify-between items-center">
+
         <div className="text-white font-bold text-3xl flex justify-center items-center gap-4"><img src={toy1} alt="Curio" className="h-15 w-auto" />Khilona</div>
         <div className="space-x-4">
           <button 
